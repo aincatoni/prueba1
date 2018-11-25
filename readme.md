@@ -8,7 +8,7 @@
 
 [https://aincatoni.github.io/prueba1](https://aincatoni.github.io/prueba1)
 
-## Enlace al la propuesta web en githubpages
+## Enlace a la propuesta web en githubpages
 
 [https://aincatoni.github.io/prueba1/public](https://aincatoni.github.io/prueba1/public)
 
