@@ -15777,6 +15777,40 @@ a.text-dark:focus {
   }
 }
 
+footer {
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+footer iframe {
+  width: 90%;
+}
+
+footer .scnd-ftr {
+  background-color: #000;
+  padding: 10px;
+  color: white;
+  font-size: 0.6rem;
+  margin-top: 10px;
+}
+
+footer .scnd-ftr h4 {
+  font-size: 0.7rem;
+}
+
+.icn-scl ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.icn-scl ul {
+  padding-left: 0;
+}
+
+.icn-scl ul li i {
+  font-size: 1.3rem;
+}
+
 #home {
   background: black;
 }
