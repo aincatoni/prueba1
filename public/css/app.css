@@ -15811,6 +15811,11 @@ footer .scnd-ftr h4 {
   font-size: 1.3rem;
 }
 
+.nstrs-dts ul {
+  padding: 0;
+  font-size: 0.8rem;
+}
+
 #home {
   background: black;
 }
