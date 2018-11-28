@@ -15777,13 +15777,6 @@ a.text-dark:focus {
   }
 }
 
-.ntcs-hm {
-  margin: 20px 0;
-  background: #6658f9;
-  color: white;
-  padding: 20px;
-}
-
 main h1,
 main h2,
 main h3,
@@ -15798,6 +15791,10 @@ main h6 {
   text-indent: -10000px;
   display: block;
   width: 100px;
+}
+
+.navbar-light .navbar-nav .active > .btn-ctv {
+  color: #503fce;
 }
 
 footer {
@@ -15864,6 +15861,12 @@ footer .scnd-ftr h4 {
   margin-bottom: 30px;
 }
 
+.accss-drcts {
+  padding: 60px 0 20px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 .accss-drcts img {
   width: 100%;
 }
@@ -15893,7 +15896,7 @@ footer .scnd-ftr h4 {
 }
 
 .ntcs-hm {
-  margin: 20px 0;
+  margin: 40px 0;
   background: #6658f9;
   color: white;
   padding: 20px;
@@ -15901,6 +15904,6 @@ footer .scnd-ftr h4 {
 
 .ntcs-hm h1 {
   color: white;
-  letter-spacing: 5px;
+  letter-spacing: 15px;
 }
 
