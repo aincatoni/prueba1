@@ -20826,7 +20826,7 @@ main h6 {
 }
 
 .nvbr-logo {
-  background: url(../images/logo.gif?b5d0390cb280b98750e5e19a2be7d4dc) center no-repeat/auto 100% transparent;
+  background: url(../images/logo_apaisado.jpg?2b185ce8229535ef8e1c25b84e25431c) center no-repeat/auto 100% transparent;
   text-indent: -10000px;
   display: block;
   width: 100px;
@@ -20955,5 +20955,61 @@ footer .scnd-ftr h4 {
 .nstrs-dcs ul li {
   display: inline-block;
   font-size: 0.7rem;
+}
+
+.posts a {
+  color: #6658f9;
+}
+
+.posts article {
+  margin: 40px 0;
+}
+
+.posts .meta-info {
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  padding: 10px 0 5px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 20px 0;
+}
+
+.posts .meta-info ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.posts .post-thumbnail {
+  margin: 20px 0;
+}
+
+.breadcrumb {
+  background-color: white;
+  padding: 5px;
+  border-bottom: 1px solid #6658f9;
+}
+
+.sdbr {
+  border-left: 1px solid #eee;
+}
+
+.sdbr ul {
+  padding-left: 0;
+}
+
+.sdbr ul li {
+  display: inline-block;
+}
+
+.sdbr a {
+  color: #0010ff;
+}
+
+.sdbr a i {
+  color: #6551fd;
+}
+
+.my-post-title {
+  margin: 30px 0;
 }
 
