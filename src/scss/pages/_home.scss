@@ -59,7 +59,6 @@
 }
 
 
-
 @include respond-above(sm) { 
 
 	.fto-tblt {
@@ -80,6 +79,10 @@
 
 	.fto-mbl {
 		display: block;
+	}
+
+	.txt-accs1 {
+		text-align: left;
 	}
 	
 }

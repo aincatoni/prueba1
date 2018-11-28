@@ -20996,6 +20996,10 @@ footer iframe {
   .fto-mbl {
     display: block;
   }
+
+  .txt-accs1 {
+    text-align: left;
+  }
 }
 
 .nstrs-dcs ul {
@@ -21007,6 +21011,10 @@ footer iframe {
 .nstrs-dcs ul li {
   display: inline-block;
   font-size: 0.7rem;
+}
+
+.nosotros .jumbotron {
+  background-color: #fbfbff;
 }
 
 .posts a {
@@ -21063,5 +21071,9 @@ footer iframe {
 
 .my-post-title {
   margin: 30px 0;
+}
+
+.noticias .jumbotron {
+  background-color: #fbfbff;
 }
 
