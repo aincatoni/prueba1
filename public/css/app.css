@@ -15821,6 +15821,19 @@ footer .scnd-ftr h4 {
   font-size: 0.7rem;
 }
 
+.first-footer h1,
+.first-footer h2,
+.first-footer h3,
+.first-footer h4,
+.first-footer h5,
+.first-footer h6 {
+  color: #6551fd;
+}
+
+.first-footer a i {
+  color: #6551fd;
+}
+
 .icn-scl ul li {
   display: inline-block;
   margin-right: 10px;
@@ -15839,7 +15852,55 @@ footer .scnd-ftr h4 {
   font-size: 0.8rem;
 }
 
+.ftr-tp {
+  padding: 20px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.jmbtrn-sldr {
+  background-color: #6551fd;
+  padding: 20px 0;
+  margin-bottom: 30px;
+}
+
 .accss-drcts img {
   width: 100%;
+}
+
+.accss-drcts h1 {
+  font-size: 1.6rem;
+}
+
+.accss-drcts h2 {
+  font-size: 1.4rem;
+}
+
+.accss-drcts h3 {
+  font-size: 1.2rem;
+}
+
+.accss-drcts h4 {
+  font-size: 1.1rem;
+}
+
+.accss-drcts h5 {
+  font-size: 1rem;
+}
+
+.accss-drcts p {
+  font-size: 0.9rem;
+}
+
+.ntcs-hm {
+  margin: 20px 0;
+  background: #6658f9;
+  color: white;
+  padding: 20px;
+}
+
+.ntcs-hm h1 {
+  color: white;
+  letter-spacing: 5px;
 }
 

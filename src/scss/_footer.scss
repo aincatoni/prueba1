@@ -14,8 +14,24 @@ footer {
 	.scnd-ftr h4 {
 		font-size: 0.7rem;
 	}
+	
+
 }
 
+.first-footer {
+
+	h1,h2,h3,h4,h5,h6 {
+		color:#6551fd;
+	}
+
+	a {
+
+		i {
+			color:#6551fd;
+		}
+	}
+
+}
 
 .icn-scl  {
 	
@@ -42,3 +58,11 @@ footer {
 		font-size: 0.8rem;
 	}
 }
+
+
+.ftr-tp {
+	
+	padding: 20px 0;
+    box-sizing: border-box;
+
+    }
