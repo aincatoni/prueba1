@@ -20978,6 +20978,26 @@ footer iframe {
   letter-spacing: 15px;
 }
 
+@media (min-width: 768px) {
+  .fto-tblt {
+    display: block;
+  }
+
+  .fto-mbl {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .fto-tblt {
+    display: none;
+  }
+
+  .fto-mbl {
+    display: block;
+  }
+}
+
 .nstrs-dcs ul {
   line-height: 0.9rem;
   margin-left: 0;

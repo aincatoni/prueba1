@@ -42,6 +42,8 @@
 }
 
 
+
+
 .ntcs-hm {
 
 	margin: 40px 0;
@@ -57,7 +59,27 @@
 }
 
 
-.trjts {
 
+@include respond-above(sm) { 
+
+	.fto-tblt {
+		display:block;
+	}
+
+	.fto-mbl {
+		display: none;
+	}
+	
+}
+
+@include respond-below(sm) { 
+
+	.fto-tblt {
+		display:none;
+	}
+
+	.fto-mbl {
+		display: block;
+	}
 	
 }
