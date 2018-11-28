@@ -15784,6 +15784,15 @@ a.text-dark:focus {
   padding: 20px;
 }
 
+main h1,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6 {
+  color: #503fce;
+}
+
 .nvbr-logo {
   background: url(../images/logo.gif?b5d0390cb280b98750e5e19a2be7d4dc) center no-repeat/auto 100% transparent;
   text-indent: -10000px;
