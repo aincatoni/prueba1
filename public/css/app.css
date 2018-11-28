@@ -20838,23 +20838,11 @@ main h6 {
 
 footer {
   background-color: #f7f7f7;
-  padding: 20px;
+  padding: 20px 20px 0 20px;
 }
 
 footer iframe {
   width: 90%;
-}
-
-footer .scnd-ftr {
-  background-color: #000;
-  padding: 10px;
-  color: white;
-  font-size: 0.6rem;
-  margin-top: 10px;
-}
-
-footer .scnd-ftr h4 {
-  font-size: 0.7rem;
 }
 
 .first-footer h1,
@@ -20886,6 +20874,21 @@ footer .scnd-ftr h4 {
 .nstrs-dts ul {
   padding: 0;
   font-size: 0.8rem;
+}
+
+.scnd-ftr {
+  background-color: #000;
+  padding: 10px;
+  color: white;
+  font-size: 0.6rem;
+  border-radius: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.scnd-ftr h4 {
+  font-size: 0.7rem;
 }
 
 .ftr-tp {
@@ -20944,6 +20947,10 @@ footer .scnd-ftr h4 {
 .ntcs-hm h1 {
   color: white;
   letter-spacing: 15px;
+}
+
+.trjts .card-body {
+  min-height: 240px;
 }
 
 .nstrs-dcs ul {

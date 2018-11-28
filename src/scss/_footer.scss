@@ -1,19 +1,10 @@
 footer {
 	background-color:#f7f7f7;
-	padding:20px;
+	padding:20px 20px 0 20px;
 	iframe {
 		width: 90%;
 	}
-	.scnd-ftr {
-		background-color:#000;
-		padding:10px;
-		color: white;
-		font-size: 0.6rem;
-		margin-top: 10px;
-	}
-	.scnd-ftr h4 {
-		font-size: 0.7rem;
-	}
+	
 	
 
 }
@@ -59,6 +50,18 @@ footer {
 	}
 }
 
+.scnd-ftr {
+		background-color:#000;
+		padding:10px;
+		color: white;
+		font-size: 0.6rem;
+		border-radius: 0;
+		box-sizing:border-box;
+		margin: 0 auto;
+	}
+	.scnd-ftr h4 {
+		font-size: 0.7rem;
+	}
 
 .ftr-tp {
 	
