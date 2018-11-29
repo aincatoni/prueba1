@@ -21034,9 +21034,14 @@ footer iframe {
   margin: 20px 0;
 }
 
+.posts .meta-info i {
+  color: #503fce;
+}
+
 .posts .meta-info ul li {
   display: inline-block;
   margin-right: 10px;
+  color: #503fce;
 }
 
 .posts .post-thumbnail {
