@@ -73,8 +73,16 @@ ul {
 
 .noticias {
 
-	.jumbotron {
+	.my-jumbotron {
 
 		background-color:#fbfbff;
+	}
+}
+
+@include respond-below(sm) {
+
+	.sdbr {
+
+		display:none;
 	}
 }

@@ -21013,7 +21013,7 @@ footer iframe {
   font-size: 0.7rem;
 }
 
-.nosotros .jumbotron {
+.nosotros .my-jumbotron {
   background-color: #fbfbff;
 }
 
@@ -21078,7 +21078,13 @@ footer iframe {
   margin: 30px 0;
 }
 
-.noticias .jumbotron {
+.noticias .my-jumbotron {
   background-color: #fbfbff;
+}
+
+@media (max-width: 767px) {
+  .sdbr {
+    display: none;
+  }
 }
 
